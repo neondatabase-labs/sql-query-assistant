@@ -76,7 +76,7 @@ SqlQueryAssistant
 ### Clone the Repository
 
 ```bash
-git clone <https://github.com/your-repo/sql-query-assistant.git>
+git clone https://github.com/neondatabase-labs/sql-query-assistant.git
 cd sql-query-assistant
 ```
 
