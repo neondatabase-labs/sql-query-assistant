@@ -1,6 +1,8 @@
 # Intelligent SQL Query Assistant
 
-This project demonstrates how to build an **Intelligent SQL Query Assistant** that enables users to interact with their **Neon** database using natural language. The assistant uses **Azure OpenAI**, **pgvector** extension in Neon, and **Retrieval-Augmented Generation (RAG)** approach to dynamically generate and execute SQL queries. Read more on how to guide blog.
+This project demonstrates how to build an **Intelligent SQL Query Assistant** that enables users to interact with their **Neon** database using natural language. The assistant uses **Azure OpenAI**, **pgvector** extension in Neon, and **Retrieval-Augmented Generation (RAG)** approach to dynamically generate and execute SQL queries. Read more on [how to guide blog post](https://neon.tech/blog/building-sql-query-assistant-with-dotnet-azure-functions-openai).
+
+![SQL Query Assistant in Azure](/assets/neon-sql-query-azure-diagram.png)
 
 ## Features
 
@@ -74,7 +76,7 @@ SqlQueryAssistant
 ### Clone the Repository
 
 ```bash
-git clone <https://github.com/your-repo/sql-query-assistant.git>
+git clone https://github.com/neondatabase-labs/sql-query-assistant.git
 cd sql-query-assistant
 ```
 
